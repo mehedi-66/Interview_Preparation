@@ -102,4 +102,26 @@
 These HTTP methods are fundamental in representing the actions that can be performed on resources in a **RESTful architecture**. Understanding their characteristics and use cases is crucial for designing and interacting with web services.
 
 
+It's easy to think that just knowing a few common REST API methods like GET and POST is enough.
+
+But there are actually 39 different HTTP verbs for APIs.
+
+Mastering at least 9 methods can set you apart in today's job market.
+
+Here's a quick overview of 9 essential API methods:
+
+   - GET - Retrieve data from a server
+   - POST - Send data to create a resource
+   - PUT - Update a resource by replacing it
+   - PATCH - Partially update a resource
+   - DELETE - Delete a resource
+   - HEAD - Retrieve metadata from a server
+   - OPTIONS - View available communication options
+   - TRACE - Trace communication path between client and server
+   - CONNECT - Establish a tunnel to a server
+
+Knowing when to use each method can give you a significant advantage when building robust, efficient APIs.
+
+The key is understanding how each verb uniquely interacts with resources on the server.
+
 
