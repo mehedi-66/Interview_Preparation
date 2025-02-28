@@ -32,4 +32,12 @@
 - Dynamic Centeral Repoting DB Table make
 - Give Grand user permistion with PermisionFunction
 - Report Name and Some Parameter Fields 
-- Dynamic Reporting Field DatabaseDriven 
+- Dynamic Reporting Field DatabaseDriven
+
+## Table Fields to SP and Repo Generate 
+
+- Table column to Read Name and Type of columns
+- Generate Insert, Update, Delete, Get_by_Id, Get_All Store Prcedure make
+- Based on this SP to Generate Repo for those SP
+- Make Interface As well
+   
